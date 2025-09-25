@@ -1,16 +1,61 @@
-## Hi there 👋
+Hi there! 👋 I'm Avery.
+I'm a full-stack developer with a passion for building user-friendly and scalable web applications. Based in India, I love solving complex problems with clean code and innovative solutions. I'm always looking for opportunities to collaborate on open-source projects and learn new technologies.
 
-<!--
-**HatifNeyaz/HatifNeyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My Tech Stack
+Frontend
 
-Here are some ideas to get you started:
+Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases
+
+Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 My GitHub Stats
+<div align="center">
+
+</div>
+
+🌐 Let's Connect!
+Portfolio: avery-dev.com
+
+LinkedIn: linkedin.com/in/avery-dev
+
+Twitter: twitter.com/avery_dev
+
+"The function of a good software developer is to not only write code, but also to build something that lasts."
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://profile-counter.glitch.me/your-username/count.svg" alt="Profile views">
+</div>
